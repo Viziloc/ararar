@@ -1,0 +1,11 @@
+Model Information:
+* title:	Modern Bed
+* source:	https://sketchfab.com/3d-models/modern-bed-7207bd6b4a164446a682b965208bf732
+* author:	Andrej Grave (https://sketchfab.com/andrej.grave)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Modern Bed" (https://sketchfab.com/3d-models/modern-bed-7207bd6b4a164446a682b965208bf732) by Andrej Grave (https://sketchfab.com/andrej.grave) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
